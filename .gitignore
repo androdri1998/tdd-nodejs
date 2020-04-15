@@ -1,0 +1,8 @@
+docker-compose.yml
+node_modules/
+database.js
+database.sqlite
+
+.env
+.env.test
+__tests__/coverage
